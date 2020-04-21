@@ -1,4 +1,4 @@
-This game is created with two different data structures. You can read more on the game implementation by opening the "Data Struvtures Final Project Report" pdf. 
+This game is created with two different data structures. You can read more on the game implementation by opening the "Data Structures Final Project Report" pdf. 
 
 Here are terminal commands to run the game!
 Terminal Commands:
