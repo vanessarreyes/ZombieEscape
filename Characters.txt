@@ -1,0 +1,3 @@
+Alek Ramirez,Baseball Player,Nailed Bat,Strength,Quick Runner,Selfish,Allergies
+Andrea Pack,Airplane Pilot,Switch Blade,First Aid,Knowledgeable,Slow Runner,Clumsy
+Vincente Ripp,Police Officer,Pistol,Fire Arms,Stealth,Anger Issues,Forgetful
